@@ -1,5 +1,8 @@
 # RUSE Compat Mod Manager
 
+THIS REPOSITORY IS OBSOLETE
+USE **[Latest release →](https://github.com/LittleGroove/RUSE-Mod-Manager/releases/latest)**
+
 A standalone Windows application that fundamentally redefines modding for **R.U.S.E. Compat** — the community-maintained multiplayer version of R.U.S.E. Instead of distributing full replacement `.dat` files that break each other, mods are now **surgical patch files** that describe only what they change, allowing multiple mods to coexist and stack cleanly.
 
 ---
